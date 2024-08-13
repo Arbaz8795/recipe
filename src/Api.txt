@@ -1,0 +1,15 @@
+Q1.curl "https://api.edamam.com/search?q=chicken&app_id=88503222&app_key=9f28dc46486133bc3ea90dde6a0af45c"
+Q2. Application ID:=(88503222);
+Q3.Application key := 9f28dc46486133bc3ea90dde6a0af45c	—
+Q4. npm i react-router-dom
+Q5. npm i react-icons
+Q6. i bootstrap
+Q7 i axios
+
+
+*****GIT command IMPORTNT*****TREminal...
+1.  git init
+2.  git coding user-name "YOUr git have(aur name)"
+3.  git confiy user-name "your github emial."
+4.  git add .
+5.  paste your github repositry code
