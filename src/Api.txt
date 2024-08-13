@@ -13,3 +13,5 @@ Q7 i axios
 3.  git confiy user-name "your github emial."
 4.  git add .
 5.  paste your github repositry code
+ 6. git clone (new file ..) link.()
+ 7. npm install
